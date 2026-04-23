@@ -17,15 +17,17 @@ h1 {
   font-size: 70px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 700;
-  color: rgb(112, 146, 255);
+  /* color: rgb(92, 130, 255); */
   text-shadow: 2px 3px 4px black;
+  color: rgb(40, 109, 212);
 }
 
 #btn {
   width: 190px;
   height: 55px;
   border-radius: 10px;
-  background-color: rgb(86, 86, 235);
+  /* background-color: rgb(86, 86, 235); */
+  background-color: rgb(97, 97, 221);
   color: white;
   font-size: 26px;
   margin-top: 10%;
