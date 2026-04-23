@@ -17,6 +17,7 @@
             body.style.color = "black";
             h1.style.textShadow = "1px 1px 1px black";
             h1.innerHTML = `"Light mode is activated."`;
+            h1.style.textShadow = "3px 3px 4px black"
             btn.textContent = "WhiteMode";
         }
     })
